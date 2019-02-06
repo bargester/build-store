@@ -1,0 +1,20 @@
+// Colors
+$white: #fff;
+$black: #000;
+
+// Sizes
+$base-font-size: 16px;
+$content-size: 1240px;
+$breakpoints: (
+        "phone"       : 400px,
+        "phone-wide"  : 480px,
+        "phablet"     : 560px,
+        "tablet-small": 640px,
+        "tablet"      : 768px,
+        "tablet-wide" : 1024px,
+        "desktop"     : 1248px,
+        "desktop-wide": 1440px
+);
+
+// Fonts
+$main-font: 'sourse_sans_pro-regual', Arial, sans-serif;
